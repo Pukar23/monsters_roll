@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters_roll/static/css/main.3a155501.css",
+    "main.js": "/monsters_roll/static/js/main.0d4a6b8c.js",
+    "static/js/453.2dc06d6b.chunk.js": "/monsters_roll/static/js/453.2dc06d6b.chunk.js",
+    "index.html": "/monsters_roll/index.html",
+    "main.3a155501.css.map": "/monsters_roll/static/css/main.3a155501.css.map",
+    "main.0d4a6b8c.js.map": "/monsters_roll/static/js/main.0d4a6b8c.js.map",
+    "453.2dc06d6b.chunk.js.map": "/monsters_roll/static/js/453.2dc06d6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a155501.css",
+    "static/js/main.0d4a6b8c.js"
+  ]
+}
